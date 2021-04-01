@@ -1,5 +1,5 @@
 # GCR Token Contracts
-Smart contracts for GLobal Coin Research to mint GCR Token. The minting be based on a 4-year vesting schedule.
+Smart contracts for GLobal Coin Research to mint GCR Token. The minting be based on a 4-year vesting schedule. Details are listed in the contract code. This contract is to demonstrate full transparency. 
 
 ## Run
 - Install: `make install`
